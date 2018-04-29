@@ -2,7 +2,7 @@
 // @name         Google docs
 // @include      https://*docs.google.*/document/*
 // @require    http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
-// @license            GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
+// @license GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt
 // @version            0.0.1
 // ==/UserScript==
 // ==OpenUserJS==
