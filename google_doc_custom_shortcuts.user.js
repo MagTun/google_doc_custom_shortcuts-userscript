@@ -3,6 +3,7 @@
 // @include      https://*docs.google.*/document/*
 // @require    http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // @version            0.0.1
+// @license MIT
 // ==/UserScript==
 // ==OpenUserJS==
 // @author EnoraNedelec
